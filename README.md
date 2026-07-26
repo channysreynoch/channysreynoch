@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Currently learning Laravel 10 & React<br>- 💼 Interested in Backend & Full Stack Development<br>- 📚 Learning Database Design & REST APIs<br>- 🎯 Goal: Become a Professional Developer
+🌱 Currently learning Laravel 10 & React<br>- 💼 Interested in Backend & Full Stack Development<br>- 📚 Learning Database Design & REST APIs<br>- 🎯 Goal: Become a Professional Developer
 
 
 ## 🌐 Socials:
